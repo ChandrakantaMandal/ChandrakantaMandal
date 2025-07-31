@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Final-year B.Tech student passionate about web technologies.
+- 🎓 Second-year B.Tech student passionate about web technologies.
 - 💻 Focused on **Full-Stack Development** using **MERN Stack**.
 - ⚙️ Currently exploring the power of **Next.js** for building dynamic and server-side applications.
 - 💡 Always ready to learn, build, and share new ideas.
