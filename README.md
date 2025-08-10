@@ -1,3 +1,9 @@
+# 👋 Hey there! I'm Chandrakanta Mandal
+
+🎓 **B.Tech Student** | 💻 **Full-Stack MERN Developer** | ⚡️ **Next.js Learner**
+
+---
+
 # 💫 About Me:
 🎓 Second-year B.Tech student passionate about web technologies.<br>💻 Focused on Full-Stack Development using MERN Stack.<br>⚙️ Currently exploring the power of Next.js for building dynamic and server-side applications.<br>💡 Always ready to learn, build, and share new ideas.
 
